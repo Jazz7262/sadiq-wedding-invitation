@@ -14,7 +14,9 @@ function InviteNote() {
                     Kurnool Dist., AP - 518 301.
                 </h5>
                 <p className="address">
-                    Contact: +91 81494 44335.
+                    Contact: +91 96762 35707 <br />
+                    +91 97019 09737 <br />
+                    +91 62812 71992.
                 </p>
             </div>
         </section>
